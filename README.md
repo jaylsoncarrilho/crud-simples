@@ -8,4 +8,4 @@ Opções:
 
 # Objetivo
 Aprimorar a base em python: loops, condicionais, 
-listas, dicionários e manipulação de arquivos.
+listas, dicionários, modulações e manipulação de arquivos.
